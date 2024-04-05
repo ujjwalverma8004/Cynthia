@@ -204,7 +204,7 @@ html,body{
     width: 15vw;
     height: 15vw;
     border-radius: 50%;
-    background-image: url("img/bg4.jpg");
+    background-image: url("/img/bg4.jpg");
     background-size: cover;
     background-position: center;
 }
